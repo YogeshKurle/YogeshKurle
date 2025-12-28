@@ -5,25 +5,19 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/yogeshkurle07)
 [![HackerRank](https://img.shields.io/badge/HackerRank-brightgreen?style=for-the-badge&logo=hackerrank&labelColor=brightgreen)](https://www.hackerrank.com/profile/yogeshkurle22)
 
-
 ---
 
 ### 🚀 About Me
-I’m a Data Engineer based in Mumbai, India. I build things with Python, SQL, Snowflake, Apache Spark, Databricks and PowerBI. Passionate about transforming raw data into actionable business insights. Skilled in data cleaning, transformation, and visualization, I thrive on solving complex problems and driving data-informed decision-making.
-
----
-
-- 🔭 I’m currently working on: **E-commerence Data Pipeline using Databricks**.
-- 🌱 I’m currently learning: **Databricks, Azure Cloud**
-- 📫 How to reach me: <yogeshkurle12@gmail.com>
+I’m a Data Engineer based in Mumbai, India. I build things with Python, SQL, Snowflake, Apache Spark, Databricks, and Power BI. Passionate about transforming raw data into actionable business insights. Skilled in data cleaning, transformation, and visualization, I thrive on solving complex problems and driving data-informed decision-making.
 
 ---
 
 ### 🛠️ Tech & Tools
-- **Languages:** Python, Java
+- **Languages:** Python
 - **Database:** PostgreSQL, MSSQL
-- **Tools:** Snowflake, Apache Spark, Databricks, Apache Ni-Fi, PowerBI, MSBI
+- **Tools:** Snowflake, Apache Spark, Databricks, Apache Ni-Fi, Power BI, MSBI
 - **DevOps / Infra:** Docker, GitHub Actions
+- **Cloud:** Microsoft Azure and AWS
 
 ---
 
@@ -44,27 +38,23 @@ I’m a Data Engineer based in Mumbai, India. I build things with Python, SQL, S
 *Project Name: Motor Fuel Group (MFG) , UK	Thane, India*
 - Client Interaction, Requirement gathering for the Project
 - Worked as a Power BI developer, designing and creating a new dashboard for the client.
-- Worked on a solo project for Reporting using tools like SSIS, SSRS, and MS-SQL.
+- Worked on a solo project for reporting using tools like SSIS, SSRS, and MS-SQL.
 - Created Multiple reports for clients to be insightful on Sales Data, Revenue Growth, and Customer Engagement.
 - Functional Experience: Product Sales
 - Tools: Power BI, SSIS, SSRS, and MS-SQL
 
 ---
 
-## 🎓 **Education**
- 
-- **Bachelor of Engineering** – Datta Meghe College of Engineering, Navi Mumbai *(2015–2019)*  
-
----
-
 ## ⭐ **Personal Projects**
 
-**🔹 CUSTOMER SALES ANALYSIS:**  
-- Utilized SQL to extract data from 8 different related tables from customer sales databases using JOIN and VIEW. Used Kaggle for dataset and PostgreSQL to store the data
-- Transformed and filtered data by using aggregating and filtering function to improve reporting process
-- Loaded and visualized data with Python to identify key business intelligences that can improve sales performance
+### ☕ Coffee Shop Sales Dashboard (Power BI)
+Built an interactive Power BI dashboard to analyze sales performance for a multi-location coffee shop.  
+The report provides insights into revenue trends, product performance, peak sales hours, and store-wise contribution, enabling data-driven business decisions.
 
-**🔹 Spotfiy Data Pipeline End-To-End Python Data Engineering Project:**
+**Skills:** Power BI, DAX, Power Query, SQL, Data Modeling  
+🔗 **Repository:** [View Project](https://github.com/YogeshKurle/CoffeeShopSales_Dashboard.git)
+
+### 🎵 Spotfiy Data Pipeline End-To-End Python Data Engineering Project:
 - Implement Complete Data Pipeline Data Engineering Project using Spotify
 - Integrating with Spotify API and extracting Data
 - Deploying code on AWS Lambda for Data Extraction
@@ -74,19 +64,28 @@ I’m a Data Engineer based in Mumbai, India. I build things with Python, SQL, S
 - Store files on S3 properly
 - Building Analytics Tables on data files using Glue and Athena
 
+**Skills:** Python, AWS Cloud Services (Cloudwatch, S3, Lambda, Glue), Snowflake, Databricks
+🔗 **Repository:** [View Project](https://github.com/YogeshKurle/Spotfiy-Data-Pipeline-End-To-End-Python-Data-Engineering-Project-.git)
+
 ---
+
+## 🎓 **Education**
+ 
+- **Bachelor of Engineering (Information Technology)**
+- Datta Meghe College of Engineering, Navi Mumbai *(2015–2019)*
+- CGPA: 6.36
 
 ## 📄 **Certification**
 
-- Learn MSBI, SSIS, SSRS and SSAS – UDEMY
-- 100 Days of Code: The Complete Python Pro Bootcamp – UDEMY
+- Learn MSBI, SSIS, SSRS, and SSAS – UDEMY
 - PL-300 certification prep: Microsoft Power BI Data Analyst – UDEMY
 - AWS Cloud Practitioner Essentials – COURSERA
 
 ---
 
 ## 🚀 **Activities**
-
+- 🔭 I’m currently working on: **E-commerence Data Pipeline using Databricks**.
+- 🌱 I’m currently learning: **Databricks, Azure Cloud Serivces**
 - 🖥️ Solving SQL & Python challenges: [LeetCode](https://leetcode.com/u/yogeshkurle07) and [HackerRank](https://www.hackerrank.com/profile/yogeshkurle22)
 - Continuously building & refining data analytics projects
  
@@ -98,7 +97,6 @@ I’m a Data Engineer based in Mumbai, India. I build things with Python, SQL, S
 
 ---
 
-
 ### 🎯 Goals
-- Contribute to community resource
-- Build & publish Interview resource
+- Contribute to the community resource
+- Build & publish Interview resource 
