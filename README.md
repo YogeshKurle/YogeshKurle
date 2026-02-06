@@ -27,15 +27,15 @@ I’m a Data Engineer based in Mumbai, India. I build things with Python, SQL, S
 *Nov 2020 – Mar 2025*  
 *Project Name: People Strategy HR Management Portal, USA	Remote, India*
 - Partner with the Business Analyst to develop and implement new data feeds for vendors using ETL processes.
-- Optimize and enhance the existing Sky-bot to improve the performance and accuracy of data ingestion into Warehouse.
+- Optimize and enhance the existing Sky-bot to improve the performance and accuracy of data ingestion into the Warehouse.
 - Develop new Macro Workbooks for the efficient data collection and cleaning process (Validation checks and Incorrect data insertion into the csv file).
 - Engage in meetings with database and ETL development teams to devise solutions, address issues, and enhance the bug-fix knowledge base.
 - Functional Experience - Human Resources, US Payroll, and Benefits
-- Technical Skills – Pentaho ETL, PostgreSQL, MS Excel, VBA, GitLab, AWS
+- Technical Skills – Pentaho ETL, Snowflake, Azure ADLS, MS Excel, VBA, GitLab
 
 **🔹 Solution Analyst – Sankey Solutions**  
 *Sept 2019 – July 2020*  
-*Project Name: Motor Fuel Group (MFG) , UK	Thane, India*
+*Project Name: Motor Fuel Group (MFG), UK	Thane, India*
 - Client Interaction, Requirement gathering for the Project
 - Worked as a Power BI developer, designing and creating a new dashboard for the client.
 - Worked on a solo project for reporting using tools like SSIS, SSRS, and MS-SQL.
